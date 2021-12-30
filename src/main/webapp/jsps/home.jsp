@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to Landmark Technology. 
+<h2 align="center"> Welcome to Landmark Technology.OUR school is the best 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance to everyone.
 	The shout of the King is in our midst. His name is JESUS, our king.  HE IS OUR SUCCESS ACCESS KEY. I AM BLESSED. Deveops is good</h2>
